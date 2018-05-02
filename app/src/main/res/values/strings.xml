@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoGraphQl</string>
+    <string name="open_issues">Open issues</string>
+    <string name="stars_count">Stars Count</string>
+    <string name="repository_url">link</string>
+</resources>

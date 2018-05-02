@@ -1,0 +1,903 @@
+{
+  "data": {
+    "feedEntries": [
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "A Spotify client built with React / Redux  🎤🎺🎸🎷  ",
+              "full_name": "Pau1fitz/react-spotify",
+              "html_url": "https://github.com/Pau1fitz/react-spotify",
+              "open_issues_count": 1,
+              "owner": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/6873736?v=4",
+                "html_url": "https://github.com/Pau1fitz",
+                "login": "Pau1fitz"
+              },
+              "stargazers_count": 556
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "An example showing how to use Apollo 2.0 with GraphQL server + subscriptions",
+              "full_name": "Pitchlyapp/meteor-apollo2",
+              "html_url": "https://github.com/Pitchlyapp/meteor-apollo2",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/13485595?v=4",
+                "html_url": "https://github.com/Pitchlyapp",
+                "login": "Pitchlyapp"
+              },
+              "stargazers_count": 17
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Fast, Distributed Graph DB",
+              "full_name": "dgraph-io/dgraph",
+              "html_url": "https://github.com/dgraph-io/dgraph",
+              "open_issues_count": 146,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/13958706?v=4",
+                "html_url": "https://github.com/dgraph-io",
+                "login": "dgraph-io"
+              },
+              "stargazers_count": 5421
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":zap: A very easy-to-use, blazing fast asset-loader using promises. Support older-browsers and preload images, audios and videos.",
+              "full_name": "TotomInc/loaderz",
+              "html_url": "https://github.com/TotomInc/loaderz",
+              "open_issues_count": 5,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/9285210?v=4",
+                "html_url": "https://github.com/TotomInc",
+                "login": "TotomInc"
+              },
+              "stargazers_count": 106
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs",
+              "full_name": "ERS-HCL/nxplorerjs-microservice-starter",
+              "html_url": "https://github.com/ERS-HCL/nxplorerjs-microservice-starter",
+              "open_issues_count": 5,
+              "owner": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/32506169?v=4",
+                "html_url": "https://github.com/ERS-HCL",
+                "login": "ERS-HCL"
+              },
+              "stargazers_count": 34
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Manage AWS services with ease without signing in to AWS console",
+              "full_name": "bharath-srinivas/nephele",
+              "html_url": "https://github.com/bharath-srinivas/nephele",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/19271621?v=4",
+                "html_url": "https://github.com/bharath-srinivas",
+                "login": "bharath-srinivas"
+              },
+              "stargazers_count": 7
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": null,
+              "full_name": "AleksandraKaminska/GitHub-clone-react-native",
+              "html_url": "https://github.com/AleksandraKaminska/GitHub-clone-react-native",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/26117538?v=4",
+                "html_url": "https://github.com/AleksandraKaminska",
+                "login": "AleksandraKaminska"
+              },
+              "stargazers_count": 2
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": null,
+              "full_name": "ashokhein/memeryde",
+              "html_url": "https://github.com/ashokhein/memeryde",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/3986822?v=4",
+                "html_url": "https://github.com/ashokhein",
+                "login": "ashokhein"
+              },
+              "stargazers_count": 0
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Parse .graphql/.gql files into GraphQL AST at compile-time",
+              "full_name": "detrohutt/babel-plugin-inline-import-graphql-ast",
+              "html_url": "https://github.com/detrohutt/babel-plugin-inline-import-graphql-ast",
+              "open_issues_count": 2,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/5547491?v=4",
+                "html_url": "https://github.com/detrohutt",
+                "login": "detrohutt"
+              },
+              "stargazers_count": 88
+            }
+          }
+        }
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Chicco Coin: Learn what is a blockchain by creating one",
+              "full_name": "thecreazy/chiccocoin",
+              "html_url": "https://github.com/thecreazy/chiccocoin",
+              "open_issues_count": 2,
+              "owner": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/4126645?v=4",
+                "html_url": "https://github.com/thecreazy",
+                "login": "thecreazy"
+              },
+              "stargazers_count": 120
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Watch Spotify playlists and get notified when new tracks get added",
+              "full_name": "amitava82/radiole",
+              "html_url": "https://github.com/amitava82/radiole",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1279530?v=4",
+                "html_url": "https://github.com/amitava82",
+                "login": "amitava82"
+              },
+              "stargazers_count": 14
+            }
+          }
+        }
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":link: Interface for fetching and modifying control flow of GraphQL requests",
+              "full_name": "apollographql/apollo-link",
+              "html_url": "https://github.com/apollographql/apollo-link",
+              "open_issues_count": 85,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/17189275?v=4",
+                "html_url": "https://github.com/apollographql",
+                "login": "apollographql"
+              },
+              "stargazers_count": 597
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Api for creating mock twitter users ",
+              "full_name": "amponce/tubebuddy_notification_api",
+              "html_url": "https://github.com/amponce/tubebuddy_notification_api",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/3916436?v=4",
+                "html_url": "https://github.com/amponce",
+                "login": "amponce"
+              },
+              "stargazers_count": 0
+            }
+          }
+        }
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Universal React Apollo App (GraphQL) consuming: https://github.com/WeLikeGraphQL/wordpress-graphql-api-example!",
+              "full_name": "WeLikeGraphQL/universal-react-apollo-example",
+              "html_url": "https://github.com/WeLikeGraphQL/universal-react-apollo-example",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/22319557?v=4",
+                "html_url": "https://github.com/WeLikeGraphQL",
+                "login": "WeLikeGraphQL"
+              },
+              "stargazers_count": 99
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Infinite Scrolling (loading new content if user reaches bottom) for all version of react (tested with 0.10,0.11 0.12,0.13 )",
+              "full_name": "vivex/react-infinite-scroll",
+              "html_url": "https://github.com/vivex/react-infinite-scroll",
+              "open_issues_count": 2,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/5036512?v=4",
+                "html_url": "https://github.com/vivex",
+                "login": "vivex"
+              },
+              "stargazers_count": 39
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":arrows_clockwise: An example app frontend built with Apollo Client and React",
+              "full_name": "apollographql/GitHunt-React",
+              "html_url": "https://github.com/apollographql/GitHunt-React",
+              "open_issues_count": 23,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/17189275?v=4",
+                "html_url": "https://github.com/apollographql",
+                "login": "apollographql"
+              },
+              "stargazers_count": 861
+            }
+          }
+        }
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "A GraphQL to SQL query execution layer for query planning and batch data fetching.",
+              "full_name": "stems/join-monster",
+              "html_url": "https://github.com/stems/join-monster",
+              "open_issues_count": 98,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/8306115?v=4",
+                "html_url": "https://github.com/stems",
+                "login": "stems"
+              },
+              "stargazers_count": 1380
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "The GraphQL toolkit for Elixir",
+              "full_name": "absinthe-graphql/absinthe",
+              "html_url": "https://github.com/absinthe-graphql/absinthe",
+              "open_issues_count": 30,
+              "owner": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/16964118?v=4",
+                "html_url": "https://github.com/absinthe-graphql",
+                "login": "absinthe-graphql"
+              },
+              "stargazers_count": 1934
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Programming curricula",
+              "full_name": "P1xt/p1xt-guides",
+              "html_url": "https://github.com/P1xt/p1xt-guides",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/322175?v=4",
+                "html_url": "https://github.com/P1xt",
+                "login": "P1xt"
+              },
+              "stargazers_count": 2745
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Place to contribute if you are a first timer",
+              "full_name": "Anupam-dagar/awesome-first-timers",
+              "html_url": "https://github.com/Anupam-dagar/awesome-first-timers",
+              "open_issues_count": 403,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/21174572?v=4",
+                "html_url": "https://github.com/Anupam-dagar",
+                "login": "Anupam-dagar"
+              },
+              "stargazers_count": 291
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "GitBook teaching programming basics with Javascript",
+              "full_name": "GitbookIO/javascript",
+              "html_url": "https://github.com/GitbookIO/javascript",
+              "open_issues_count": 28,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/7111340?v=4",
+                "html_url": "https://github.com/GitbookIO",
+                "login": "GitbookIO"
+              },
+              "stargazers_count": 1672
+            }
+          }
+        }
+      },
+      {
+        "repository": null
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby",
+              "full_name": "jekyll/jekyll",
+              "html_url": "https://github.com/jekyll/jekyll",
+              "open_issues_count": 148,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/3083652?v=4",
+                "html_url": "https://github.com/jekyll",
+                "login": "jekyll"
+              },
+              "stargazers_count": 34060
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "middleware and tools to make action creations to be more efficient and scalable",
+              "full_name": "zhenyulin/redux-action-manager",
+              "html_url": "https://github.com/zhenyulin/redux-action-manager",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/3323196?v=4",
+                "html_url": "https://github.com/zhenyulin",
+                "login": "zhenyulin"
+              },
+              "stargazers_count": 0
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Collection of videos, articles or white papers on BlockChain Technology",
+              "full_name": "itssujan/awesome-blockchain",
+              "html_url": "https://github.com/itssujan/awesome-blockchain",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/15159118?v=4",
+                "html_url": "https://github.com/itssujan",
+                "login": "itssujan"
+              },
+              "stargazers_count": 1
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "A GraphQL Framework for Node.js",
+              "full_name": "spikenail/spikenail",
+              "html_url": "https://github.com/spikenail/spikenail",
+              "open_issues_count": 26,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/23507122?v=4",
+                "html_url": "https://github.com/spikenail",
+                "login": "spikenail"
+              },
+              "stargazers_count": 339
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Fullstack authentication and accounts-management for Javascript.",
+              "full_name": "accounts-js/accounts",
+              "html_url": "https://github.com/accounts-js/accounts",
+              "open_issues_count": 35,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/20859029?v=4",
+                "html_url": "https://github.com/accounts-js",
+                "login": "accounts-js"
+              },
+              "stargazers_count": 205
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Express + GraphQL + Relay [WIP] | http://graphql-relay-job-portal.npmstack.com",
+              "full_name": "sethbergman/graphql-relay-job-portal",
+              "html_url": "https://github.com/sethbergman/graphql-relay-job-portal",
+              "open_issues_count": 0,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/8031689?v=4",
+                "html_url": "https://github.com/sethbergman",
+                "login": "sethbergman"
+              },
+              "stargazers_count": 1
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "An example project to test React VR",
+              "full_name": "thecreazy/twitter-timeline-in-react-vr",
+              "html_url": "https://github.com/thecreazy/twitter-timeline-in-react-vr",
+              "open_issues_count": 1,
+              "owner": {
+                "avatar_url": "https://avatars2.githubusercontent.com/u/4126645?v=4",
+                "html_url": "https://github.com/thecreazy",
+                "login": "thecreazy"
+              },
+              "stargazers_count": 2
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":arrows_clockwise: An example app frontend built with Apollo Client and React",
+              "full_name": "apollographql/GitHunt-React",
+              "html_url": "https://github.com/apollographql/GitHunt-React",
+              "open_issues_count": 23,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/17189275?v=4",
+                "html_url": "https://github.com/apollographql",
+                "login": "apollographql"
+              },
+              "stargazers_count": 861
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Node.js based forum software built for the modern web",
+              "full_name": "NodeBB/NodeBB",
+              "html_url": "https://github.com/NodeBB/NodeBB",
+              "open_issues_count": 132,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/4449608?v=4",
+                "html_url": "https://github.com/NodeBB",
+                "login": "NodeBB"
+              },
+              "stargazers_count": 8638
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "A CLI tool that bridges React Native modules & UI components with ease 🎉",
+              "full_name": "peggyrayzis/react-native-create-bridge",
+              "html_url": "https://github.com/peggyrayzis/react-native-create-bridge",
+              "open_issues_count": 20,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/18017067?v=4",
+                "html_url": "https://github.com/peggyrayzis",
+                "login": "peggyrayzis"
+              },
+              "stargazers_count": 528
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Apollo 2 Universal Starter Kit — GraphQL React JavaScript app boilerplate for Mobile, Server and Web where code for all platforms built with Webpack to enable max code reuse, stack: Apollo, GraphQL, React 16, React Native, Expo, Express, Knex, SQLite, Twitter Bootstrap, Babel, Webpack",
+              "full_name": "sysgears/apollo-universal-starter-kit",
+              "html_url": "https://github.com/sysgears/apollo-universal-starter-kit",
+              "open_issues_count": 50,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/456002?v=4",
+                "html_url": "https://github.com/sysgears",
+                "login": "sysgears"
+              },
+              "stargazers_count": 742
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Gitea: Git with a cup of tea",
+              "full_name": "go-gitea/gitea",
+              "html_url": "https://github.com/go-gitea/gitea",
+              "open_issues_count": 790,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/12724356?v=4",
+                "html_url": "https://github.com/go-gitea",
+                "login": "go-gitea"
+              },
+              "stargazers_count": 5840
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "The simple package installer for Windows",
+              "full_name": "just-install/just-install",
+              "html_url": "https://github.com/just-install/just-install",
+              "open_issues_count": 16,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/24453987?v=4",
+                "html_url": "https://github.com/just-install",
+                "login": "just-install"
+              },
+              "stargazers_count": 189
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server",
+              "full_name": "apollographql/apollo-client",
+              "html_url": "https://github.com/apollographql/apollo-client",
+              "open_issues_count": 336,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/17189275?v=4",
+                "html_url": "https://github.com/apollographql",
+                "login": "apollographql"
+              },
+              "stargazers_count": 6917
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Linux kernel source tree",
+              "full_name": "torvalds/linux",
+              "html_url": "https://github.com/torvalds/linux",
+              "open_issues_count": 205,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/1024025?v=4",
+                "html_url": "https://github.com/torvalds",
+                "login": "torvalds"
+              },
+              "stargazers_count": 57996
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "A framework for building native apps with React.",
+              "full_name": "facebook/react-native",
+              "html_url": "https://github.com/facebook/react-native",
+              "open_issues_count": 755,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/69631?v=4",
+                "html_url": "https://github.com/facebook",
+                "login": "facebook"
+              },
+              "stargazers_count": 63040
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Meteor, the JavaScript App Platform",
+              "full_name": "meteor/meteor",
+              "html_url": "https://github.com/meteor/meteor",
+              "open_issues_count": 81,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/789528?v=4",
+                "html_url": "https://github.com/meteor",
+                "login": "meteor"
+              },
+              "stargazers_count": 39647
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+              "full_name": "facebook/react",
+              "html_url": "https://github.com/facebook/react",
+              "open_issues_count": 438,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/69631?v=4",
+                "html_url": "https://github.com/facebook",
+                "login": "facebook"
+              },
+              "stargazers_count": 94362
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+              "full_name": "daneden/animate.css",
+              "html_url": "https://github.com/daneden/animate.css",
+              "open_issues_count": 24,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/439365?v=4",
+                "html_url": "https://github.com/daneden",
+                "login": "daneden"
+              },
+              "stargazers_count": 50895
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+              "full_name": "twbs/bootstrap",
+              "html_url": "https://github.com/twbs/bootstrap",
+              "open_issues_count": 439,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/2918581?v=4",
+                "html_url": "https://github.com/twbs",
+                "login": "twbs"
+              },
+              "stargazers_count": 124003
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS",
+              "full_name": "electron/electron",
+              "html_url": "https://github.com/electron/electron",
+              "open_issues_count": 987,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/13409222?v=4",
+                "html_url": "https://github.com/electron",
+                "login": "electron"
+              },
+              "stargazers_count": 59322
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "AngularJS - HTML enhanced for web apps!",
+              "full_name": "angular/angular.js",
+              "html_url": "https://github.com/angular/angular.js",
+              "open_issues_count": 586,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/139426?v=4",
+                "html_url": "https://github.com/angular",
+                "login": "angular"
+              },
+              "stargazers_count": 58360
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+              "full_name": "d3/d3",
+              "html_url": "https://github.com/d3/d3",
+              "open_issues_count": 4,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/1562726?v=4",
+                "html_url": "https://github.com/d3",
+                "login": "d3"
+              },
+              "stargazers_count": 75171
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": ":earth_africa: GraphQL server for Express, Connect, Hapi, Koa and more",
+              "full_name": "apollographql/apollo-server",
+              "html_url": "https://github.com/apollographql/apollo-server",
+              "open_issues_count": 113,
+              "owner": {
+                "avatar_url": "https://avatars0.githubusercontent.com/u/17189275?v=4",
+                "html_url": "https://github.com/apollographql",
+                "login": "apollographql"
+              },
+              "stargazers_count": 3717
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "jQuery JavaScript Library",
+              "full_name": "jquery/jquery",
+              "html_url": "https://github.com/jquery/jquery",
+              "open_issues_count": 99,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/70142?v=4",
+                "html_url": "https://github.com/jquery",
+                "login": "jquery"
+              },
+              "stargazers_count": 48762
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "JavaScript Style Guide",
+              "full_name": "airbnb/javascript",
+              "html_url": "https://github.com/airbnb/javascript",
+              "open_issues_count": 126,
+              "owner": {
+                "avatar_url": "https://avatars3.githubusercontent.com/u/698437?v=4",
+                "html_url": "https://github.com/airbnb",
+                "login": "airbnb"
+              },
+              "stargazers_count": 69935
+            }
+          }
+        }
+      },
+      {
+        "repository": {
+          "fragments": {
+            "repositoryFragment": {
+              "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+              "full_name": "moby/moby",
+              "html_url": "https://github.com/moby/moby",
+              "open_issues_count": 3164,
+              "owner": {
+                "avatar_url": "https://avatars1.githubusercontent.com/u/27259197?v=4",
+                "html_url": "https://github.com/moby",
+                "login": "moby"
+              },
+              "stargazers_count": 48603
+            }
+          }
+        }
+      }
+    ]
+  }
+}
